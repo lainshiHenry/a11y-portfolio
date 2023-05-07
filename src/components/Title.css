@@ -1,0 +1,21 @@
+.topLeftSection{
+    display: flex;
+}
+
+.logoSection{
+    height: 150px;
+    padding: 10% 5% 5% 10%;
+}
+
+.logoSection > img {
+    height: 100px;
+    width: 100px;
+}
+.titleSection{
+    width: 300px;
+    padding: 10% 10% 5% 5%;
+}
+
+.titleSection > h1 {
+    margin-bottom: 1.5%;
+}
